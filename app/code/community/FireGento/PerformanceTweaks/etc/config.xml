@@ -128,7 +128,7 @@
       <catalog_controller_product_view>
         <observers>
           <reports>
-            <type>disabled</type>
+            <type>enabled</type>
           </reports>
         </observers>
       </catalog_controller_product_view>
